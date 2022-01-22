@@ -1,13 +1,13 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross
+title: Sunny
 logo: 
-author: themefisher
+author: Wansun Shin
 description: this is meta description
-email: steve.fruits@email.com
-phone: +880 2544 658 256
-address: 125/A, CA Commercial Area, California, USA
+email: sunnyshin@postech.ac.kr
+phone: 010 5542 9841
+address: 경상북도 포항시 남구 청암로 77
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
@@ -38,7 +38,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Christoher <br> UX designer
+  hero-title: Hi! I’m <br> Wansun Shin <br> UX designer
 
 social:
 - {icon: "ti-facebook", link: "#"}
@@ -95,10 +95,10 @@ team:
 
 skills-title: Skills
 skills:
-- {name: Web Design, color: '#fdb157', value: '90%'}
-- {name: Logo Design, color: '#9473e6', value: '60%'}
-- {name: After Effects, color: '#bdecf6', value: '80%'}
-- {name: Web App, color: '#ffbcaa', value: '70%'}
+- {name: Service Design, color: '#fdb157', value: '90%'}
+- {name: UX Research, color: '#9473e6', value: '80%'}
+- {name: Photoshop, color: '#bdecf6', value: '60%'}
+- {name: Plan and Deliver, color: '#ffbcaa', value: '70%'}
 
 
 #-------------------------------
